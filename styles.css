@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(243 242 237);
+}
+
+body nav ul{
+    display: flex;
+}
+
+body nav ul li{
+    list-style: none;
+    margin-right: 20px;
+}
