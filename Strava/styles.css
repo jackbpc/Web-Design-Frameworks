@@ -6,7 +6,18 @@ body nav ul{
     display: flex;
 }
 
+.red {
+  border: 1px solid red;
+}
+
 body nav ul li{
     list-style: none;
     margin-right: 20px;
+}
+
+.wrapper{
+  width: 1768px;
+  margin: auto;
+  padding: 1rem;
+  border-radius: 1rem;
 }
